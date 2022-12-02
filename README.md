@@ -6,7 +6,7 @@ Here is a list of my 3D print projects and files. End of 2022 I got the [Prusa M
 
 This is a first simple transparent tree and made this for my daughter based on this this project idea [X-Tree](https://www.printables.com/model/315771-christmas-tree) ".
 
-[Files](https://github.com/riwimmer/3d-Prints/tree/master/XTree)
+[Folder XTree](https://github.com/riwimmer/3d-Prints/tree/master/XTree)
 
 ## TFT Display
 
